@@ -12,4 +12,3 @@ The database schema is designed to handle user management, organizations, paymen
 
 ### ERD Diagram
 Link [Database Schema](https://dbdiagram.io/d/Table-669260279939893daed48c74)
-[Database Schema](https://dbdiagram.io/d/Table-669260279939893daed48c74)
